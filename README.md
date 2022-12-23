@@ -1,6 +1,6 @@
 # programming-operation lathe machine
 
-![Machine](https://yandex.ru/images/search?pos=0&from=tabbar&img_url=http%3A%2F%2Fclevertechno.ru%2Ffile%2Fview2%2Ffile%2Fseriya-i42-twin%2FI42_twin.jpg%2Ff%3D0%2C0_i.png&text=i-42twin&rpt=simage&lr=2)
+![Machine](http://www.ttonline.ro/Files/Images/Articole/pg_1.jpg)
 
 ## *lathe machine:* **I-42 TWIN**
 [Information about machine](https://quick-tech.ru/tokarno_frezernyj_stanok_s_chpu_i-42_twin)
